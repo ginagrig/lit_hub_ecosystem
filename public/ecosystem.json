@@ -238,6 +238,21 @@
       "official": false
     },
     {
+      "slug": "insilico-terminal",
+      "name": "Insilico Terminal",
+      "description": "Trader-friendly professional grade order, position and execution management system.",
+      "url": "https://insilicoterminal.com/",
+      "twitter": "https://x.com/InsilicoTrading",
+      "discord": "",
+      "telegram": "",
+      "logo": "/logos/insilico-terminal_logo.jpg",
+      "categories": [
+        "Terminal"
+      ],
+      "status": "Live",
+      "official": false
+    },
+    {
       "slug": "kombat",
       "name": "Kombat",
       "description": "Kombat is a non-custodial, multi-DEX execution terminal for onchain equities and crypto: perps, pairs, routing…",
@@ -625,5 +640,5 @@
       "official": false
     }
   ],
-  "generatedAt": "2026-06-08T17:24:01.942Z"
+  "generatedAt": "2026-06-08T17:28:54.743Z"
 }
