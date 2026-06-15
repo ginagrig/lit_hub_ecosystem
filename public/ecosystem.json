@@ -416,6 +416,22 @@
       "official": false
     },
     {
+      "slug": "metascalp",
+      "name": "Metascalp",
+      "description": "Pro trading terminal for 20+ exchanges, with real-time order-book depth and clusters",
+      "url": "https://app.metascalp.io/",
+      "twitter": "https://x.com/metascalp",
+      "discord": "",
+      "telegram": "@metascalp_io",
+      "logo": "/logos/metascalp_logo.svg",
+      "categories": [
+        "Terminal",
+        "Data"
+      ],
+      "status": "Live",
+      "official": false
+    },
+    {
       "slug": "minara-ai",
       "name": "Minara AI",
       "description": "Your personal AI agent for trading stocks, commodities, crypto, pre-IPO equity.",
@@ -704,5 +720,5 @@
       "official": false
     }
   ],
-  "generatedAt": "2026-06-15T15:43:23.151Z"
+  "generatedAt": "2026-06-15T16:49:06.002Z"
 }
