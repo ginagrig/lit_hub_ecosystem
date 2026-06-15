@@ -1,0 +1,14 @@
+{
+  "name": "Blockworks",
+  "description": "Lighter Analytics",
+  "url": "https://blockworks.com/analytics/lighter",
+  "twitter": "@blockworks",
+  "discord": "",
+  "telegram": "",
+  "logo": "/logos/blockworks_logo.png",
+  "categories": [
+    "Data"
+  ],
+  "status": "Live",
+  "official": false
+}
