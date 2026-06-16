@@ -309,6 +309,21 @@
       "official": false
     },
     {
+      "slug": "lighter-mcp-by-senya",
+      "name": "Lighter MCP by Senya",
+      "description": "Lighter MCP: trade Lighter perp DEX from your agent -- read market data, balances & positions, paper & live orders.",
+      "url": "https://github.com/iamgoatedaf?tab=repositories",
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "logo": "",
+      "categories": [
+        "Developers"
+      ],
+      "status": "Live",
+      "official": false
+    },
+    {
       "slug": "lighterfluid",
       "name": "LighterFluid",
       "description": "Professional perpetual futures trading terminal on Lighter DEX. Advanced charting, one-click trading, copy trading…",
@@ -750,5 +765,5 @@
       "official": false
     }
   ],
-  "generatedAt": "2026-06-16T12:49:50.819Z"
+  "generatedAt": "2026-06-16T17:12:01.075Z"
 }
