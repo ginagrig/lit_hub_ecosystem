@@ -1,0 +1,15 @@
+{
+  "name": "Octav",
+  "description": "Portfolio Intelligence for Digital Assets. Track all your positions, including lighter, in one place.",
+  "url": "https://octav.fi/",
+  "twitter": "https://x.com/OctavFi",
+  "discord": "",
+  "telegram": "",
+  "logo": "/logos/octav_logo.png",
+  "categories": [
+    "Data",
+    "Apps"
+  ],
+  "status": "Live",
+  "official": false
+}
