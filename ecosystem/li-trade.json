@@ -1,0 +1,14 @@
+{
+  "name": "li.trade",
+  "description": "trade anything on Lighter from telegram",
+  "url": "https://lidottrade.xyz/",
+  "twitter": "https://x.com/lidottrade",
+  "discord": "",
+  "telegram": "t.me/lidottrade_bot",
+  "logo": "/logos/li-trade_logo.png",
+  "categories": [
+    "Bots"
+  ],
+  "status": "Live",
+  "official": false
+}
