@@ -242,6 +242,22 @@
       "official": false
     },
     {
+      "slug": "hummingbot",
+      "name": "Hummingbot",
+      "description": "Algorithmic trading accessible to everyone, not just hedge funds or professional trading firms",
+      "url": "https://hummingbot.org/",
+      "twitter": "@_hummingbot",
+      "discord": "https://discord.gg/hummingbot",
+      "telegram": "",
+      "logo": "/logos/hummingbot_logo.png",
+      "categories": [
+        "Bots",
+        "Agents"
+      ],
+      "status": "Live",
+      "official": false
+    },
+    {
       "slug": "hypurrquant-cli",
       "name": "Hypurrquant CLI",
       "description": "",
@@ -780,5 +796,5 @@
       "official": false
     }
   ],
-  "generatedAt": "2026-06-17T11:03:58.284Z"
+  "generatedAt": "2026-06-17T15:42:29.774Z"
 }
